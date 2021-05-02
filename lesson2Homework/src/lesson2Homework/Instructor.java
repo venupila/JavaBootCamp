@@ -8,7 +8,7 @@ public class Instructor {
 
 	public Instructor() {
 			
-			System.out.println("Eðitmen metodu çalýþtýrýldý.");
+			System.out.println("EÄŸitmen metodu oluÅŸturuldu.");
 	}
 	
 	public Instructor(int id,String name,String surname,String detail) {

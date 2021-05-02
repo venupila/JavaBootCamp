@@ -15,7 +15,7 @@ public class Main {
 		course2.type = "Programlama";
 		
 
-		Instructor instructor1 = new Instructor(1,"Engin","Demiroð","Java dersi veriyor.");
+		Instructor instructor1 = new Instructor(1,"Engin","DemiroÄŸ","Java dersi veriyor.");
 
 		Instructor instructor2 = new Instructor();
 		

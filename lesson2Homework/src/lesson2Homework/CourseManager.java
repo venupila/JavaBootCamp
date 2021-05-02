@@ -9,6 +9,6 @@ public class CourseManager {
 
 	public void AddToInstructor(Instructor instructor) {
 
-		System.out.println(instructor.name + " " + instructor.surname + " eðitmeni eklendi.");
+		System.out.println(instructor.name + " " + instructor.surname + " eÄŸitmeni eklendi.");
 	}
 }

@@ -8,7 +8,7 @@ public class Course {
 
 	public Course() {
 			
-			System.out.println("Kurs metodu çalıştırıldı.");
+			System.out.println("Kurs metodu oluÅŸturuldu.");
 	}
 	
 	public Course(int id,String name,int time,String type) {
